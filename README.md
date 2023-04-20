@@ -6,11 +6,16 @@ The implementation of "Frame Level Emotion Guided Dynamic Facial Expression Reco
 - real implementation code (To do)
 
 # Training
+1. Download datasets such as DFEW, AFEW, FERV39K
+2. Make data path .txt file and put in annotation folder
+3. Run main.py
+
 
 # Test
-pretrained model can be download below link
+1. Pretrained model for DFEW can be download below link
 https://drive.google.com/drive/folders/1_0mbYxnFY5o9oYpSTZN8s2X6J3-s9CHh?usp=sharing
-
+2. Make checkpoint folder and put pretrained model or trained model in chekpoint folder 
+3. Run Test.py
 
 
 # Abstract
